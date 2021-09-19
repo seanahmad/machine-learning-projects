@@ -1,4 +1,3 @@
-# This Repository Contains all Machine Learning Projects, Which I am making in my Learning Stage.
+# Machine Learning Projects
 
-
-### Currently at Developing stage.
+This Repository Contains all Machine Learning Projects, Which I am making at my Learning Stage.
